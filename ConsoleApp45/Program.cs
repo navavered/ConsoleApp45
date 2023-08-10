@@ -10,6 +10,12 @@ namespace ConsoleApp45
     {
         static void Main(string[] args)
         {
+            int x = 1;
+            while (true)
+            {
+                x++;
+
+            }
         }
     }
 }
